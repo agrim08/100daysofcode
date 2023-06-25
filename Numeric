@@ -1,0 +1,16 @@
+Numeric data types consist of following :
+    1. Integer
+    2. float
+    3. Complex
+    4. Boolean
+
+1. num = 5 
+   represent Integer
+2. num = 5.2
+   represent float
+3. num = 2+3j
+   represent complex where j = root(-1)
+4. let b = 4
+   b<5
+   Output: True
+   so True and False falls under Boolean.

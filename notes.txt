@@ -1,0 +1,12 @@
+# While working with data it is important to know the type of data, so let's understand the concept data types :)
+
+Types of data types:
+(i) None
+(ii) Numeric
+(iii) List
+(iv) Tuple
+(v) Sets
+(vi) Strings
+(vii) Range
+(viii) Dictionary
+
